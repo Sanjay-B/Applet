@@ -1,2 +1,2 @@
 # Applet
-Building an Applet using Python plus MySQL for user management
+Building an Applet using Python + MySQL for user management
